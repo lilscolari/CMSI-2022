@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>29923565935-gulin07qfp61k9mgd75vrlrd96un7s6r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.29923565935-gulin07qfp61k9mgd75vrlrd96un7s6r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBKGvNEhhncZ8LnXoI69iVsjnN8o6w-fs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>29923565935</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.lmu.firebase.firebase-backed</string>
+	<key>PROJECT_ID</key>
+	<string>fir-mobile-5302f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-mobile-5302f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:29923565935:ios:9c763a370d5d67cc58089a</string>
+</dict>
+</plist>
