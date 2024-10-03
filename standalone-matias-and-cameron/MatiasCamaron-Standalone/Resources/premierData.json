@@ -1,0 +1,305 @@
+[
+    {
+        "name": "Arsenal",
+        "city": "London",
+        "id": 1001,
+        "players": ["Raya", "White", "Saliba", "Gabriel", "Zinchenko", "Ødegaard", "Rice", "Havertz", "Saka", "Jesus", "Trossard"],
+
+        "isFeatured": true,
+        "isFavorite": true,
+        "stadium": "Emirates Stadium",
+        "coordinates": {
+            "latitude": 51.55521,
+            "longitude": -0.10832
+        },
+        "description": "Arsenal, English professional football (soccer) team based in London. Arsenal is one of the most successful squads in English football history, having played in the country's top division (Football League First Division to 1992, Premier League thereafter) each season since 1919.",
+        "imageName": "arsenal"
+    },
+    {
+        "name": "Aston Villa",
+        "city": "Birmingham",
+        "id": 1002,
+        "players": ["Martinez", "Moreno", "Lenglet", "Carlos", "Konsa", "McGinn", "Luiz", "Kamara", "Bailey", "Watkins", "Diaby"],
+
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Villa Park",
+        "coordinates": {
+            "latitude": 52.50917,
+            "longitude": -1.88477
+        },
+        "description": "Aston Villa Football Club, commonly referred to as Villa, is a professional football club based in Aston, Birmingham, England. The club, founded in 1874, competes in the Premier League, the top tier of the English football league system.",
+        "imageName": "astonVilla"
+    },
+    {
+        "name": "Bournemouth",
+        "city": "Bournemouth",
+        "id": 1003,
+        "players": ["Aarons", "Zabarnyi", "Mepham", "Hill", "Christie", "Cook", "Tavernier", "Kluivert", "Sinisterra", "Solanke"],
+        "isFeatured": false,
+        "isFavorite": true,
+        "stadium": "Vitality Stadium",
+        "coordinates": {
+            "latitude": 50.73492,
+            "longitude": -1.83906
+        },
+        "description": "AFC Bournemouth are a professional football club, formed in 1899, currently playing in the Premier League – the top tier of English Football.",
+        "imageName": "bournemouth"
+    },
+    {
+        "name": "Brentford",
+        "city": "Brentford",
+        "id": 1004,
+        "players": ["Flekken", "Collins", "Pinnock", "Mee", "Roerslev", "Damsgaard", "Janelt", "Jensen", "Lewis-Potter", "Maupay", "Toney"],
+
+        "isFeatured": true,
+        "isFavorite": true,
+        "stadium": "Gtech Community Stadium",
+        "coordinates": {
+            "latitude": 51.49088,
+            "longitude": -0.28878
+        },
+        "description": "Brentford Football Club is a professional association football club in Brentford, West London, England. The team compete in the Premier League, the first level of the English football league system.",
+        "imageName": "brentford"
+    },
+    {
+        "name": "Brighton and Hove Albion",
+        "city": "Falmer",
+        "id": 1005,
+        "players": ["Steele", "Hinshelwood", "van Hecke", "Dunk", "Estupinán", "Gross", "Gilmour", "Milner", "Bounanotte", "Welbeck", "Pedro"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "American Express Stadium",
+        "coordinates": {
+            "latitude": 50.86170,
+            "longitude": -0.08371
+        },
+        "description": "Brighton and Hove Albion Football Club, commonly referred to simply as Brighton, is an English professional football club based in the city of Brighton and Hove. They compete in the Premier League, the top tier of the English football league system. The club's home ground is the 31,876-capacity Falmer Stadium in Falmer, in the north east of Brighton.",
+        "imageName": "brighton"
+    },
+    {
+        "name": "Burnley",
+        "city": "Burnley",
+        "id": 1006,
+        "players": ["Trafford", "Vitinho", "O’Shea", "Ekdal", "Dakhil", "Gudmundsson", "Cullen", "Brownhill", "Odobert", "Foster", "Amdouni"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Turf Moor",
+        "coordinates": {
+            "latitude": 53.78912,
+            "longitude": -2.23008
+        },
+        "description": "Burnley Football Club is an English professional association football club based in Burnley, Lancashire. It was founded on 18 May 1882 by members of rugby club Burnley Rovers, who voted for a change from rugby to association football.",
+        "imageName": "burnley"
+    },
+    {
+        "name": "Chelsea",
+        "city": "London",
+        "id": 1007,
+        "players": ["Petrovic", "Gusto", "Disasi", "Silva", "Colwill", "Caicedo", "Fernández", "Palmer", "Gallagher", "Sterling", "Broja"],
+        "isFeatured": true,
+        "isFavorite": false,
+        "stadium": "Stamford Bridge",
+        "coordinates": {
+            "latitude": 51.48174,
+            "longitude": -0.19103
+        },
+        "description": "Chelsea Football Club is an English professional football club based in Fulham, West London. Founded in 1905, the team play their home games at Stamford Bridge.",
+        "imageName": "chelsea"
+    },
+    {
+        "name": "Crystal Palace",
+        "city": "London",
+        "id": 1008,
+        "players": ["Henderson", "Guehi", "Andersen", "Richards", "Mitchell", "Hughes", "Lerma", "Clyne", "Eze", "Mateta", "Schlupp"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Selhurst Park",
+        "coordinates": {
+            "latitude": 51.39805,
+            "longitude": -0.08604
+        },
+        "description": "Crystal Palace Football Club is an English professional association football club based in Selhurst, South London, England. Although formally created as a professional outfit in 1905 at the site of the famous Crystal Palace Exhibition building, the club's origins can be traced as far back as 1861.",
+        "imageName": "crystalPalace"
+    },
+    {
+        "name": "Everton",
+        "city": "Liverpool",
+        "id": 1009,
+        "players": ["Pickford", "Coleman", "Tarkowski", "Branthwaite", "Mykolenko", "Garner", "Onana", "Harrison", "Doucouré", "Danjuma", "Calvert-Lewin"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Goodison Park",
+        "coordinates": {
+            "latitude": 53.43895,
+            "longitude": -2.96625
+        },
+        "description": "Everton Football Club is an English professional association football club based in Liverpool that competes in the Premier League, the top tier of English football",
+        "imageName": "everton"
+    },
+    {
+        "name": "Fulham",
+        "city": "London",
+        "id": 1010,
+        "players": ["Leno", "Robinson", "Diop", "Adarabioyo", "Tete", "Cairney", "Palhinha", "Willian", "Pereira", "Wilson", "Jiménez"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Craven Cottage",
+        "coordinates": {
+            "latitude": 51.47503,
+            "longitude": -0.22155
+        },
+        "description": "Founded in 1879, the club play in the Premier League, the first tier of English football. Fulham are the oldest professional football team in London. The club has spent twenty-four seasons in English football's top division, the majority of that in two spells during the 1960s and 2000s.",
+        "imageName": "fulham"
+    },
+    {
+        "name": "Liverpool",
+        "city": "Liverpool",
+        "id": 1011,
+        "players": ["Becker", "Gomez", "van Dijk", "Konaté", "Bradley", "Jones", "Mac Allister", "Elliott", "Nunez", "Jota", "Diaz"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Anfield",
+        "coordinates": {
+            "latitude": 53.43092,
+            "longitude": -2.96083
+        },
+        "description": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football.",
+        "imageName": "liverpool"
+    },
+    {
+        "name": "Luton Town",
+        "city": "Luton",
+        "id": 1012,
+        "players": ["Kaminski", "Bell", "Osho", "Mengi", "Doughty", "Barkley", "Lokonga", "Ogbene", "Clark", "Townsend", "Adebayo"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Kenilworth Road",
+        "coordinates": {
+            "latitude": 51.88431,
+            "longitude": -0.43161
+        },
+        "description": "Luton Town Football Club is a professional football club based in Luton, Bedfordshire, England, that competes in the Premier League, the top tier of English football.",
+        "imageName": "lutonTown"
+    },
+    {
+        "name": "Manchester City",
+        "city": "Manchester",
+        "id": 1013,
+        "players": ["Ederson", "Gvardiol", "Aké", "Dias", "Walker", "Kovacic", "Rodri", "Doku", "Silva", "Foden"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Etihad Stadium",
+        "coordinates": {
+            "latitude": 53.48327,
+            "longitude": -2.20025
+        },
+        "description": "Manchester City Football Club is a professional football club based in Manchester, England, that competes in the Premier League, the top flight of English football. Founded in 1880 as St. Mark's (West Gorton), they became Ardwick Association Football Club in 1887 and Manchester City in 1894.",
+        "imageName": "manchesterCity"
+    },
+    {
+        "name": "Manchester United",
+        "city": "Manchester",
+        "id": 1014,
+        "players": ["Onana", "Dalot", "Evans", "Varane", "Wan-Bissaka", "Mainoo", "Eriksen", "Garnacho", "Fernandes", "Rashford", "Højlund"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Old Trafford",
+        "coordinates": {
+            "latitude": 53.46312,
+            "longitude": -2.29134
+        },
+        "description": "Manchester United Football Club, commonly referred to as Man United (often stylised as Man Utd), or simply United, is a professional football club based in Old Trafford, Greater Manchester, England. The club competes in the Premier League, the top division in the English football league system.",
+        "imageName": "manchesterUnited"
+    },
+    {
+        "name": "Newcastle United",
+        "city": "Newcastle",
+        "id": 1015,
+        "players": ["Dubravka", "Trippier", "Schär", "Botman", "Burn", "Miley", "Guimaraes", "Longstaff", "Almiron", "Isak", "Gordon"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "St. James’ Park",
+        "coordinates": {
+            "latitude": 54.97561,
+            "longitude": -1.62161
+        },
+        "description": "Newcastle United is a leading football club based in North East England. Founded in 1892, the Club has won the English League Championship 4 times, and the FA Cup 6 times. St James' Park is the home of Newcastle United and regularly attracts 52,000 passionate supporters, commonly known as the Toon Army.",
+        "imageName": "newcastle"
+    },
+    {
+        "name": "Nottingham Forest",
+        "city": "Nottinghan",
+        "id": 1016,
+        "players": ["Turner", "Tavares", "Murillo", "Omobamidele", "Montiel", "Danilo", "Mangala", "Hudson-Odoi", "Yates", "Dominguez", "Wood"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "The City Ground",
+        "coordinates": {
+            "latitude": 52.94007,
+            "longitude": -1.13289
+        },
+        "description": "Nottingham Forest Football Club is a professional association football based in West Bridgford, Nottingham, England. The team competes in the Premier League, the first level of the English football league system. Founded in 1865, Forest have played their home games at the City Ground since 1898.",
+        "imageName": "nottinghamForest"
+    },
+    {
+        "name": "Sheffield United",
+        "city": "Sheffield",
+        "id": 1017,
+        "players": ["Foderingham", "Bogle", "Ahmedhodzic", "Robinson", "Trusty", "McAtee", "Hamer", "de Souza Costa", "Brooks", "Diaz", "Osula"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Bramall Lane",
+        "coordinates": {
+            "latitude": 53.37062,
+            "longitude": -1.47101
+        },
+        "description": "Sheffield United F.C. is an English football club who play in Sheffield, Yorkshire, England. They play their home games at a stadium called Bramall Lane and have the nickname \"Blades\". Their nickname comes from Sheffield's reputation for producing steel. Sheffield United F.C.",
+        "imageName": "sheffield"
+    },
+    {
+        "name": "Tottenham Hotspur",
+        "city": "London",
+        "id": 1018,
+        "players": ["Vicario", "Udogie", "Van de Ven", "Romero", "Porro", "Skipp", "Højbjerg", "Bentancur", "Werner", "Richarlison", "Johnson"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Tottenham Hotspur Stadium",
+        "coordinates": {
+            "latitude": 51.60434,
+            "longitude": -0.06617
+        },
+        "description": "Tottenham Hotspur was founded in 1882 and play their home games at the Tottenham Hotspur Stadium. The stadium is in North London and has a capacity of 62303. Tottenham's nickname is 'Spurs' and the team plays in white shirts, navy-blue shorts and white socks.",
+        "imageName": "tottenham"
+    },
+    {
+        "name": "West Ham United",
+        "city": "London",
+        "id": 1019,
+        "players": ["Areola", "Emerson", "Zouma", "Mavropanos", "Coufal", "Fornals", "Ward-Prowse", "Soucek", "Cornet", "Ings", "Bowen"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "London Stadium",
+        "coordinates": {
+            "latitude": 51.53879,
+            "longitude": -0.01729
+        },
+        "description": "West Ham United Football Club is an English professional football club that plays its home matches in Stratford, East London. The club competes in the Premier League, the top tier of English football.",
+        "imageName": "westHam"
+    },
+    {
+        "name": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "id": 1020,
+        "players": ["Sá", "Gomes", "Dawson", "Kilman", "Doherty", "Doyle", "Lemina", "Semedo", "Neto", "Sarabia", "Cunha"],
+        "isFeatured": false,
+        "isFavorite": false,
+        "stadium": "Molineux Stadium",
+        "coordinates": {
+            "latitude": 52.59032,
+            "longitude": -2.13043
+        },
+        "description": "Commonly referred to as Wolves, Wolverhampton Wanderers FC was founded in 1877 in Wolverhampton, Central England. Wolves have played at Molineux Stadium since 1889 and was one of the original founding members of the English Football League in 1888.",
+        "imageName": "wolverhampton"
+    }
+]
